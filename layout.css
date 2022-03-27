@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://cosmos.bluesoft.com.br/assets/ncm/8470-59a2da2897af82333a87207dbf2386ae.png');
+    background-color: #000000;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  h2{
+    margin: 12px;
+    color: #000000;
+    padding: 66px;
+  }
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  label {
+    color: white;
+  }
+  .page-title {
+    color:#ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
